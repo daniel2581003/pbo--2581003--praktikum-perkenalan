@@ -16,6 +16,8 @@ public class Main {
         System.out.print("Masukkan Tinggi Anda: ");
         double Tinggi = scanner.nextDouble();
 
+        System.out.print("Masukkan Asal Kota Anda: ");
+        String Asal = scanner.nextLine();
 
     }
 
