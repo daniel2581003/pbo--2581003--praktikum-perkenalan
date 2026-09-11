@@ -7,6 +7,9 @@ public class Main {
         System.out.print("Masukkan Nama Anda: ");
         String Nama = scanner.nextLine();
 
+        System.out.print("Masukkan NIM Anda: ");
+        int Nim = scanner.nextInt();
+
 
     }
 
