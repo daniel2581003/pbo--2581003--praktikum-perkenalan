@@ -15,9 +15,12 @@ public class Main {
 
         System.out.print("Masukkan Tinggi Anda: ");
         double Tinggi = scanner.nextDouble();
+        scanner.nextLine();
 
         System.out.print("Masukkan Asal Kota Anda: ");
         String Asal = scanner.nextLine();
+
+        System.out.println ("Halo! Nama saya " + Nama + ", (NIM " + Nim + "), " + "Umur " + Umur + ", Tinggi " + Tinggi + ", Berasal dari " + Asal + ".");
 
     }
 
