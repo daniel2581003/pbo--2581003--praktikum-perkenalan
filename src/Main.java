@@ -13,6 +13,10 @@ public class Main {
         System.out.print("Masukkan Umur Anda: ");
         int Umur = scanner.nextInt();
 
+        System.out.print("Masukkan Tinggi Anda: ");
+        double Tinggi = scanner.nextDouble();
+
+
     }
 
 }
